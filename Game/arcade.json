@@ -1,0 +1,34 @@
+{
+	"name": "Novo projeto",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "s5pn05wduld",
+	"viewport-width": 1920,
+	"viewport-height": 1080,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "landscape",
+	"c2version": "244",
+	"c3version": "r432.3",
+	"ife": true,
+	"used-plugins": [
+		"TiledBg",
+		"Sprite",
+		"Keyboard",
+		"Text",
+		"Audio",
+		"video",
+		"Button"
+	],
+	"used-behaviors": [
+		"solid",
+		"Pin",
+		"Sin",
+		"Platform",
+		"scrollto",
+		"bound",
+		"Anchor"
+	]
+}
